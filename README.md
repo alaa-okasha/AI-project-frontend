@@ -3,12 +3,14 @@
 ## 📦 Get Started
 
 ```bash
-git clone https://github.com/alaa-okasha/eat-n-split.git
+git clone https://github.com/alaa-okasha/AI-project-frontend.git
+
+cd AI-project-frontend
 
 npm install
 
 
-npm run dev  # or npm start if not using Vite
+npm run dev  
 
 
 ```
